@@ -1,6 +1,6 @@
 #/usr/bin.python3
 # plotting.py 
-# Start script here for data plotting
+# Start script here for data plotting.
 
 from bokeh.core.enums import SizingMode
 from bokeh.models.annotations import Tooltip

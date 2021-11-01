@@ -1,5 +1,5 @@
 # movement.py
-# Using Computer Vision, OpenCV
+# Using Computer Vision, OpenCV.
 
 import cv2, pandas
 from datetime import datetime
