@@ -60,8 +60,8 @@ while True:
         break
 
 
-print(status_list)
-print(times)
+# print(status_list)
+# print(times)
 
 # put frames start/stop time in DF for time plot (plotting.py)
 for i in range(0,len(times),2):
