@@ -1,2 +1,2 @@
 # MotionDetect
-Detect Motion on a Camera Device and make a time plot
+Detects motion from a camera device and makes a time plot.  
